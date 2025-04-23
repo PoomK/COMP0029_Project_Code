@@ -1,0 +1,51 @@
+Model,Home Team,Away Team,Nice Prediction,Home Probability,Draw Probability,Away Probability
+Logistic Regression,Arsenal,Fulham,Arsenal Win,0.544,0.300,0.157
+Random Forest,Arsenal,Fulham,Arsenal Win,0.388,0.316,0.295
+XGBoost,Arsenal,Fulham,Arsenal Win,0.393,0.306,0.301
+SVM,Arsenal,Fulham,Arsenal Win,0.526,0.383,0.091
+MLP,Arsenal,Fulham,Arsenal Win,0.634,0.280,0.085
+Logistic Regression,Wolves,West Ham,Wolves Win,0.397,0.272,0.331
+Random Forest,Wolves,West Ham,Draw,0.235,0.444,0.321
+XGBoost,Wolves,West Ham,Wolves Win,0.444,0.342,0.214
+SVM,Wolves,West Ham,Wolves Win,0.435,0.423,0.143
+MLP,Wolves,West Ham,West Ham Win,0.373,0.243,0.384
+Logistic Regression,Nottingham Forest,Manchester United,Nottingham Forest Win,0.398,0.336,0.266
+Random Forest,Nottingham Forest,Manchester United,Nottingham Forest Win,0.513,0.236,0.251
+XGBoost,Nottingham Forest,Manchester United,Nottingham Forest Win,0.570,0.237,0.193
+SVM,Nottingham Forest,Manchester United,Nottingham Forest Win,0.668,0.281,0.050
+MLP,Nottingham Forest,Manchester United,Draw,0.356,0.373,0.271
+Logistic Regression,Bournemouth,Ipswich,Bournemouth Win,0.619,0.279,0.102
+Random Forest,Bournemouth,Ipswich,Bournemouth Win,0.472,0.350,0.178
+XGBoost,Bournemouth,Ipswich,Bournemouth Win,0.610,0.231,0.158
+SVM,Bournemouth,Ipswich,Bournemouth Win,0.741,0.244,0.015
+MLP,Bournemouth,Ipswich,Draw,0.445,0.494,0.061
+Logistic Regression,Brighton,Aston Villa,Brighton Win,0.515,0.340,0.145
+Random Forest,Brighton,Aston Villa,Brighton Win,0.501,0.252,0.247
+XGBoost,Brighton,Aston Villa,Brighton Win,0.501,0.271,0.228
+SVM,Brighton,Aston Villa,Brighton Win,0.588,0.382,0.030
+MLP,Brighton,Aston Villa,Brighton Win,0.631,0.293,0.076
+Logistic Regression,Manchester City,Leicester,Manchester City Win,0.828,0.143,0.030
+Random Forest,Manchester City,Leicester,Manchester City Win,0.686,0.220,0.094
+XGBoost,Manchester City,Leicester,Manchester City Win,0.616,0.225,0.159
+SVM,Manchester City,Leicester,Manchester City Win,0.890,0.107,0.002
+MLP,Manchester City,Leicester,Manchester City Win,0.855,0.126,0.020
+Logistic Regression,Newcastle,Brentford,Brentford Win,0.242,0.319,0.438
+Random Forest,Newcastle,Brentford,Brentford Win,0.241,0.329,0.430
+XGBoost,Newcastle,Brentford,Newcastle Win,0.365,0.322,0.313
+SVM,Newcastle,Brentford,Brentford Win,0.077,0.414,0.510
+MLP,Newcastle,Brentford,Draw,0.308,0.408,0.284
+Logistic Regression,Southampton,Crystal Palace,Crystal Palace Win,0.041,0.225,0.734
+Random Forest,Southampton,Crystal Palace,Crystal Palace Win,0.148,0.273,0.578
+XGBoost,Southampton,Crystal Palace,Crystal Palace Win,0.209,0.245,0.546
+SVM,Southampton,Crystal Palace,Crystal Palace Win,0.002,0.220,0.777
+MLP,Southampton,Crystal Palace,Crystal Palace Win,0.102,0.278,0.620
+Logistic Regression,Liverpool,Everton,Liverpool Win,0.793,0.172,0.034
+Random Forest,Liverpool,Everton,Liverpool Win,0.662,0.237,0.100
+XGBoost,Liverpool,Everton,Liverpool Win,0.760,0.143,0.098
+SVM,Liverpool,Everton,Liverpool Win,0.812,0.173,0.015
+MLP,Liverpool,Everton,Liverpool Win,0.770,0.190,0.040
+Logistic Regression,Chelsea,Tottenham,Draw,0.364,0.396,0.240
+Random Forest,Chelsea,Tottenham,Chelsea Win,0.440,0.348,0.212
+XGBoost,Chelsea,Tottenham,Chelsea Win,0.500,0.261,0.239
+SVM,Chelsea,Tottenham,Draw,0.271,0.527,0.203
+MLP,Chelsea,Tottenham,Chelsea Win,0.443,0.311,0.246

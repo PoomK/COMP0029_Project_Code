@@ -1,0 +1,11 @@
+Match,Logistic Regression,Random Forest,XGBoost,SVM,MLP
+Arsenal vs Fulham,Arsenal Win,Arsenal Win,Arsenal Win,Arsenal Win,Arsenal Win
+Wolves vs West Ham,Wolves Win,Draw,Wolves Win,Wolves Win,West Ham Win
+Nottingham Forest vs Manchester United,Nottingham Forest Win,Nottingham Forest Win,Nottingham Forest Win,Nottingham Forest Win,Draw
+Bournemouth vs Ipswich,Bournemouth Win,Bournemouth Win,Bournemouth Win,Bournemouth Win,Draw
+Brighton vs Aston Villa,Brighton Win,Brighton Win,Brighton Win,Brighton Win,Brighton Win
+Manchester City vs Leicester,Manchester City Win,Manchester City Win,Manchester City Win,Manchester City Win,Manchester City Win
+Newcastle vs Brentford,Brentford Win,Brentford Win,Newcastle Win,Brentford Win,Draw
+Southampton vs Crystal Palace,Crystal Palace Win,Crystal Palace Win,Crystal Palace Win,Crystal Palace Win,Crystal Palace Win
+Liverpool vs Everton,Liverpool Win,Liverpool Win,Liverpool Win,Liverpool Win,Liverpool Win
+Chelsea vs Tottenham,Draw,Chelsea Win,Chelsea Win,Draw,Chelsea Win

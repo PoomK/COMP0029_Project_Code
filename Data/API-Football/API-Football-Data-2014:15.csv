@@ -1,0 +1,381 @@
+Fixture ID,Date,Referee,Venue,City,Home Team,Away Team,Home Team Goals,Away Team Goals,Result,Home Shots on Goal,Home Shots off Goal,Home Total Shots,Home Blocked Shots,Home Shots insidebox,Home Shots outsidebox,Home Fouls,Home Corner Kicks,Home Offsides,Home Ball Possession,Home Yellow Cards,Home Red Cards,Home Goalkeeper Saves,Home Total passes,Home Passes accurate,Home Passes %,Away Shots on Goal,Away Shots off Goal,Away Total Shots,Away Blocked Shots,Away Shots insidebox,Away Shots outsidebox,Away Fouls,Away Corner Kicks,Away Offsides,Away Ball Possession,Away Yellow Cards,Away Red Cards,Away Goalkeeper Saves,Away Total passes,Away Passes accurate,Away Passes %,Home expected_goals,Away expected_goals
+192677,2014-08-16T11:45:00+00:00,,Old Trafford (Manchester),,Manchester United,Swansea,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192678,2014-08-16T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Everton,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192682,2014-08-16T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Tottenham,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192681,2014-08-16T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Sunderland,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192679,2014-08-16T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Hull City,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192680,2014-08-16T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Aston Villa,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192683,2014-08-16T16:30:00+00:00,,Emirates Stadium (London),,Arsenal,Crystal Palace,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192684,2014-08-17T12:30:00+00:00,,Anfield (Liverpool),,Liverpool,Southampton,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192685,2014-08-17T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Manchester City,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192686,2014-08-18T19:00:00+00:00,,Turf Moor (Burnley),,Burnley,Chelsea,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192687,2014-08-23T11:45:00+00:00,,Villa Park (Birmingham),,Aston Villa,Newcastle,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192690,2014-08-23T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,West Brom,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192688,2014-08-23T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Leicester,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192689,2014-08-23T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,West Ham,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192691,2014-08-23T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Burnley,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192692,2014-08-23T16:30:00+00:00,,Goodison Park (Liverpool),,Everton,Arsenal,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192694,2014-08-24T12:30:00+00:00,,White Hart Lane (London),,Tottenham,QPR,4,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192693,2014-08-24T12:30:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Stoke City,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192695,2014-08-24T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Manchester United,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192696,2014-08-25T19:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Liverpool,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192697,2014-08-30T11:45:00+00:00,,Turf Moor (Burnley),,Burnley,Manchester United,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192699,2014-08-30T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Crystal Palace,3,3,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192702,2014-08-30T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Southampton,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192698,2014-08-30T14:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Stoke City,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192700,2014-08-30T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Sunderland,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192701,2014-08-30T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,West Brom,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192703,2014-08-30T16:30:00+00:00,,Goodison Park (Liverpool),,Everton,Chelsea,3,6,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192705,2014-08-31T12:30:00+00:00,,White Hart Lane (London),,Tottenham,Liverpool,0,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192704,2014-08-31T12:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Hull City,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192706,2014-08-31T15:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Arsenal,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192707,2014-09-13T11:45:00+00:00,,Emirates Stadium (London),,Arsenal,Manchester City,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192710,2014-09-13T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Newcastle,4,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192708,2014-09-13T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Swansea,4,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192709,2014-09-13T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Burnley,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192713,2014-09-13T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Everton,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192711,2014-09-13T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Leicester,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192712,2014-09-13T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Tottenham,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192714,2014-09-13T16:30:00+00:00,,Anfield (Liverpool),,Liverpool,Aston Villa,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192715,2014-09-14T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,QPR,4,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192716,2014-09-15T19:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,West Ham,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192717,2014-09-20T11:45:00+00:00,,Loftus Road Stadium (London),,QPR,Stoke City,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192720,2014-09-20T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Hull City,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192719,2014-09-20T14:00:00+00:00,,Turf Moor (Burnley),,Burnley,Sunderland,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192718,2014-09-20T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Arsenal,0,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192721,2014-09-20T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Southampton,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192722,2014-09-20T16:30:00+00:00,,Boleyn Ground (London),,West Ham,Liverpool,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192723,2014-09-21T12:30:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Manchester United,5,3,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192724,2014-09-21T12:30:00+00:00,,White Hart Lane (London),,Tottenham,West Brom,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192725,2014-09-21T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Crystal Palace,2,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192726,2014-09-21T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Chelsea,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192727,2014-09-27T11:45:00+00:00,,Anfield (Liverpool),,Liverpool,Everton,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192731,2014-09-27T14:00:00+00:00,,Old Trafford (Manchester),,Manchester United,West Ham,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192732,2014-09-27T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,QPR,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192728,2014-09-27T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Aston Villa,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192729,2014-09-27T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Leicester,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192730,2014-09-27T14:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Manchester City,2,4,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192733,2014-09-27T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Swansea,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192734,2014-09-27T16:30:00+00:00,,Emirates Stadium (London),,Arsenal,Tottenham,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192735,2014-09-28T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Burnley,4,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192736,2014-09-29T19:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Newcastle,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192739,2014-10-04T14:00:00+00:00,,Anfield (Liverpool),,Liverpool,West Brom,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192738,2014-10-04T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Burnley,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192737,2014-10-04T14:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Crystal Palace,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192741,2014-10-04T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Newcastle,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192740,2014-10-04T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Stoke City,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192742,2014-10-04T16:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Manchester City,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192743,2014-10-05T11:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Everton,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192744,2014-10-05T13:05:00+00:00,,White Hart Lane (London),,Tottenham,Southampton,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192745,2014-10-05T13:20:00+00:00,,Stamford Bridge (London),,Chelsea,Arsenal,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192746,2014-10-05T15:15:00+00:00,,Boleyn Ground (London),,West Ham,QPR,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192747,2014-10-18T11:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Tottenham,4,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192752,2014-10-18T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Sunderland,8,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192748,2014-10-18T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,Hull City,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192749,2014-10-18T14:00:00+00:00,,Turf Moor (Burnley),,Burnley,West Ham,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192751,2014-10-18T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Aston Villa,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192750,2014-10-18T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Chelsea,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192753,2014-10-18T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Leicester,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192754,2014-10-19T12:30:00+00:00,,Loftus Road Stadium (London),,QPR,Liverpool,2,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192755,2014-10-19T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Swansea,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192756,2014-10-20T19:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Manchester United,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192757,2014-10-25T11:45:00+00:00,,Boleyn Ground (London),,West Ham,Manchester City,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192758,2014-10-25T14:00:00+00:00,,Anfield (Liverpool),,Liverpool,Hull City,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192759,2014-10-25T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Stoke City,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192761,2014-10-25T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Crystal Palace,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192760,2014-10-25T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Arsenal,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192762,2014-10-25T16:30:00+00:00,,Liberty Stadium (Swansea),,Swansea,Leicester,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192763,2014-10-26T12:30:00+00:00,,Turf Moor (Burnley),,Burnley,Everton,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192764,2014-10-26T12:30:00+00:00,,White Hart Lane (London),,Tottenham,Newcastle,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192765,2014-10-26T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Chelsea,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192766,2014-10-27T20:00:00+00:00,,Loftus Road Stadium (London),,QPR,Aston Villa,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192767,2014-11-01T12:45:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Liverpool,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192768,2014-11-01T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Burnley,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192770,2014-11-01T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Swansea,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192772,2014-11-01T15:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,West Brom,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192769,2014-11-01T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,QPR,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192771,2014-11-01T15:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Southampton,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192773,2014-11-01T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,West Ham,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192774,2014-11-02T13:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Manchester United,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192775,2014-11-02T16:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Tottenham,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192776,2014-11-03T20:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Sunderland,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192777,2014-11-08T12:45:00+00:00,,Anfield (Liverpool),,Liverpool,Chelsea,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192779,2014-11-08T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Crystal Palace,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192780,2014-11-08T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Leicester,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192778,2014-11-08T15:00:00+00:00,,Turf Moor (Burnley),,Burnley,Hull City,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192781,2014-11-08T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Aston Villa,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192782,2014-11-08T17:30:00+00:00,,Loftus Road Stadium (London),,QPR,Manchester City,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192784,2014-11-09T13:30:00+00:00,,White Hart Lane (London),,Tottenham,Stoke City,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192785,2014-11-09T13:30:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Newcastle,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192783,2014-11-09T13:30:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Everton,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192786,2014-11-09T16:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Arsenal,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192791,2014-11-22T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,QPR,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192788,2014-11-22T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,West Ham,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192789,2014-11-22T15:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Sunderland,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192787,2014-11-22T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,West Brom,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192790,2014-11-22T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Swansea,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192792,2014-11-22T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Burnley,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192793,2014-11-22T17:30:00+00:00,,Emirates Stadium (London),,Arsenal,Manchester United,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192794,2014-11-23T13:30:00+00:00,,Selhurst Park (London),,Crystal Palace,Liverpool,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192795,2014-11-23T16:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Tottenham,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192796,2014-11-24T20:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Southampton,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192797,2014-11-29T12:45:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Arsenal,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192800,2014-11-29T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Hull City,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192799,2014-11-29T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Stoke City,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192798,2014-11-29T15:00:00+00:00,,Turf Moor (Burnley),,Burnley,Aston Villa,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192803,2014-11-29T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Newcastle,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192801,2014-11-29T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Leicester,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192802,2014-11-29T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Crystal Palace,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192804,2014-11-29T17:30:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Chelsea,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192805,2014-11-30T13:30:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Manchester City,0,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192806,2014-11-30T16:00:00+00:00,,White Hart Lane (London),,Tottenham,Everton,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192809,2014-12-02T19:45:00+00:00,,Old Trafford (Manchester),,Manchester United,Stoke City,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192807,2014-12-02T19:45:00+00:00,,Turf Moor (Burnley),,Burnley,Newcastle,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192808,2014-12-02T19:45:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Liverpool,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192810,2014-12-02T19:45:00+00:00,,Liberty Stadium (Swansea),,Swansea,QPR,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192811,2014-12-02T20:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Aston Villa,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192812,2014-12-02T20:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,West Ham,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192813,2014-12-03T19:45:00+00:00,,Emirates Stadium (London),,Arsenal,Southampton,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192815,2014-12-03T19:45:00+00:00,,Goodison Park (Liverpool),,Everton,Hull City,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192814,2014-12-03T19:45:00+00:00,,Stamford Bridge (London),,Chelsea,Tottenham,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192816,2014-12-03T19:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Manchester City,1,4,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192817,2014-12-06T12:45:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Chelsea,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192819,2014-12-06T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Sunderland,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192822,2014-12-06T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Crystal Palace,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192818,2014-12-06T15:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,West Brom,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192820,2014-12-06T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Burnley,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192821,2014-12-06T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Arsenal,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192823,2014-12-06T17:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Everton,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192824,2014-12-07T13:30:00+00:00,,Boleyn Ground (London),,West Ham,Swansea,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192825,2014-12-07T16:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Leicester,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192826,2014-12-08T20:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Manchester United,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192827,2014-12-13T15:00:00+00:00,,Turf Moor (Burnley),,Burnley,Southampton,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192830,2014-12-13T15:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Manchester City,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192828,2014-12-13T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,Hull City,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192829,2014-12-13T15:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Stoke City,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192832,2014-12-13T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Aston Villa,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192831,2014-12-13T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,West Ham,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192833,2014-12-13T17:30:00+00:00,,Emirates Stadium (London),,Arsenal,Newcastle,4,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192834,2014-12-14T13:30:00+00:00,,Old Trafford (Manchester),,Manchester United,Liverpool,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192835,2014-12-14T16:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Tottenham,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192836,2014-12-15T20:00:00+00:00,,Goodison Park (Liverpool),,Everton,QPR,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192837,2014-12-20T12:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Crystal Palace,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192841,2014-12-20T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Everton,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192842,2014-12-20T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Burnley,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192843,2014-12-20T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Leicester,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192839,2014-12-20T15:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Swansea,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192838,2014-12-20T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Manchester United,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192840,2014-12-20T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,West Brom,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192844,2014-12-21T13:30:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Sunderland,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192845,2014-12-21T16:00:00+00:00,,Anfield (Liverpool),,Liverpool,Arsenal,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192846,2014-12-22T20:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Chelsea,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192847,2014-12-26T12:45:00+00:00,,Stamford Bridge (London),,Chelsea,West Ham,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192852,2014-12-26T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Newcastle,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192848,2014-12-26T15:00:00+00:00,,Turf Moor (Burnley),,Burnley,Liverpool,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192850,2014-12-26T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Stoke City,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192851,2014-12-26T15:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Tottenham,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192849,2014-12-26T15:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Southampton,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192855,2014-12-26T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Manchester City,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192854,2014-12-26T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Aston Villa,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192853,2014-12-26T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Hull City,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192856,2014-12-26T17:30:00+00:00,,Emirates Stadium (London),,Arsenal,QPR,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192857,2014-12-28T12:00:00+00:00,,White Hart Lane (London),,Tottenham,Manchester United,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192858,2014-12-28T14:05:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Chelsea,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192864,2014-12-28T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Arsenal,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192861,2014-12-28T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Burnley,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192860,2014-12-28T15:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Leicester,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192859,2014-12-28T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Sunderland,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192862,2014-12-28T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Crystal Palace,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192863,2014-12-28T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,West Brom,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192865,2014-12-28T16:15:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Everton,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192866,2014-12-29T20:00:00+00:00,,Anfield (Liverpool),,Liverpool,Swansea,4,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192867,2015-01-01T12:45:00+00:00,"Michael Oliver, England","Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Manchester United,1,1,Draw,3.0,5.0,0.0,0.0,0.0,0.0,8.0,11.0,2.0,33%,0.0,0.0,1.0,0.0,0.0,0,2.0,3.0,0.0,0.0,0.0,0.0,12.0,7.0,1.0,67%,0.0,0.0,1.0,0.0,0.0,0,0,0
+192872,2015-01-01T15:00:00+00:00,"Mike Dean, England",St. James' Park (Newcastle-upon-Tyne),,Newcastle,Burnley,3,3,Draw,4.0,2.0,0.0,0.0,0.0,0.0,13.0,5.0,1.0,44%,2.0,0.0,2.0,0.0,0.0,0,8.0,5.0,0.0,0.0,0.0,0.0,12.0,5.0,0.0,56%,4.0,0.0,1.0,0.0,0.0,0,0,0
+192870,2015-01-01T15:00:00+00:00,"Mike Jones, England",Anfield (Liverpool),,Liverpool,Leicester,2,2,Draw,6.0,9.0,0.0,0.0,0.0,0.0,13.0,4.0,2.0,53%,2.0,0.0,1.0,0.0,0.0,0,4.0,7.0,0.0,0.0,0.0,0.0,7.0,5.0,1.0,47%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192874,2015-01-01T15:00:00+00:00,"Craig Pawson, England","St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Arsenal,2,0,Home Win,5.0,5.0,0.0,0.0,0.0,0.0,14.0,2.0,1.0,42%,2.0,0.0,6.0,0.0,0.0,0,6.0,4.0,0.0,0.0,0.0,0.0,5.0,7.0,1.0,58%,1.0,0.0,3.0,0.0,0.0,0,0,0
+192875,2015-01-01T15:00:00+00:00,"Jonathan Moss, England",Boleyn Ground (London),,West Ham,West Brom,1,1,Draw,6.0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,46%,1.0,0.0,2.0,0.0,0.0,0,3.0,8.0,0.0,0.0,0.0,0.0,12.0,1.0,0.0,54%,0.0,0.0,4.0,0.0,0.0,0,0,0
+192871,2015-01-01T15:00:00+00:00,"Chris Foy, England",Etihad Stadium (Manchester),,Manchester City,Sunderland,3,2,Home Win,14.0,11.0,0.0,0.0,0.0,0.0,13.0,10.0,1.0,68%,2.0,0.0,2.0,0.0,0.0,0,4.0,0.0,0.0,0.0,0.0,0.0,7.0,4.0,3.0,32%,3.0,0.0,10.0,0.0,0.0,0,0,0
+192869,2015-01-01T15:00:00+00:00,"Kevin Friend, England",Kingston Communications Stadium (Hull),,Hull City,Everton,2,0,Home Win,5.0,5.0,0.0,0.0,0.0,0.0,16.0,4.0,2.0,45%,3.0,0.0,3.0,0.0,0.0,0,3.0,5.0,0.0,0.0,0.0,0.0,15.0,8.0,1.0,55%,4.0,1.0,3.0,0.0,0.0,0,0,0
+192868,2015-01-01T15:00:00+00:00,"Robert Madley, England",Villa Park (Birmingham),,Aston Villa,Crystal Palace,0,0,Draw,3.0,7.0,0.0,0.0,0.0,0.0,11.0,5.0,1.0,67%,1.0,0.0,0.0,0.0,0.0,0,2.0,3.0,0.0,0.0,0.0,0.0,11.0,2.0,4.0,33%,1.0,0.0,3.0,0.0,0.0,0,0,0
+192873,2015-01-01T15:00:00+00:00,"Anthony Taylor, England",Loftus Road Stadium (London),,QPR,Swansea,1,1,Draw,6.0,6.0,0.0,0.0,0.0,0.0,22.0,4.0,3.0,45%,4.0,0.0,2.0,0.0,0.0,0,3.0,9.0,0.0,0.0,0.0,0.0,6.0,9.0,4.0,55%,0.0,1.0,4.0,0.0,0.0,0,0,0
+192876,2015-01-01T17:30:00+00:00,"Phil Dowd, England",White Hart Lane (London),,Tottenham,Chelsea,5,3,Home Win,9.0,1.0,0.0,0.0,0.0,0.0,14.0,5.0,1.0,47%,3.0,0.0,4.0,0.0,0.0,0,9.0,6.0,0.0,0.0,0.0,0.0,8.0,3.0,0.0,53%,1.0,0.0,3.0,0.0,0.0,0,0,0
+192877,2015-01-10T12:45:00+00:00,"Craig Pawson, England",Stadium of Light (Sunderland),,Sunderland,Liverpool,0,1,Away Win,3.0,0.0,0.0,0.0,0.0,0.0,8.0,6.0,2.0,45%,2.0,1.0,5.0,0.0,0.0,0,8.0,7.0,0.0,0.0,0.0,0.0,10.0,6.0,0.0,55%,4.0,0.0,3.0,0.0,0.0,0,0,0
+192878,2015-01-10T15:00:00+00:00,"Andre Marriner, England",Turf Moor (Burnley),,Burnley,QPR,2,1,Home Win,6.0,6.0,0.0,0.0,0.0,0.0,13.0,10.0,1.0,48%,2.0,0.0,6.0,0.0,0.0,0,8.0,4.0,0.0,0.0,0.0,0.0,8.0,6.0,3.0,52%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192880,2015-01-10T15:00:00+00:00,"Martin Atkinson, England",Goodison Park (Liverpool),,Everton,Manchester City,1,1,Draw,6.0,2.0,0.0,0.0,0.0,0.0,10.0,4.0,2.0,40%,1.0,0.0,3.0,0.0,0.0,0,4.0,10.0,0.0,0.0,0.0,0.0,11.0,9.0,1.0,60%,2.0,0.0,3.0,0.0,0.0,0,0,0
+192881,2015-01-10T15:00:00+00:00,"Michael Oliver, England","King Power Stadium (Leicester, Leicestershire)",,Leicester,Aston Villa,1,0,Home Win,5.0,4.0,0.0,0.0,0.0,0.0,17.0,6.0,2.0,51%,1.0,1.0,2.0,0.0,0.0,0,2.0,7.0,0.0,0.0,0.0,0.0,7.0,6.0,5.0,49%,2.0,1.0,3.0,0.0,0.0,0,0,0
+192879,2015-01-10T15:00:00+00:00,"Roger East, England",Stamford Bridge (London),,Chelsea,Newcastle,2,0,Home Win,4.0,4.0,0.0,0.0,0.0,0.0,15.0,7.0,6.0,56%,2.0,0.0,5.0,0.0,0.0,0,5.0,1.0,0.0,0.0,0.0,0.0,10.0,4.0,0.0,44%,3.0,0.0,1.0,0.0,0.0,0,0,0
+192883,2015-01-10T15:00:00+00:00,"Neil Swarbrick, England",The Hawthorns (West Bromwich),,West Brom,Hull City,1,0,Home Win,3.0,4.0,0.0,0.0,0.0,0.0,5.0,5.0,2.0,54%,1.0,0.0,1.0,0.0,0.0,0,1.0,7.0,0.0,0.0,0.0,0.0,13.0,2.0,2.0,46%,0.0,0.0,2.0,0.0,0.0,0,0,0
+192882,2015-01-10T15:00:00+00:00,"Mike Dean, England",Liberty Stadium (Swansea),,Swansea,West Ham,1,1,Draw,3.0,3.0,0.0,0.0,0.0,0.0,9.0,4.0,2.0,60%,0.0,0.0,4.0,0.0,0.0,0,5.0,4.0,0.0,0.0,0.0,0.0,7.0,5.0,1.0,40%,1.0,0.0,3.0,0.0,0.0,0,0,0
+192884,2015-01-10T17:30:00+00:00,"Anthony Taylor, England",Selhurst Park (London),,Crystal Palace,Tottenham,2,1,Home Win,7.0,5.0,0.0,0.0,0.0,0.0,7.0,4.0,4.0,53%,5.0,0.0,4.0,0.0,0.0,0,5.0,2.0,0.0,0.0,0.0,0.0,14.0,6.0,1.0,47%,3.0,0.0,5.0,0.0,0.0,0,0,0
+192885,2015-01-11T13:30:00+00:00,"Jonathan Moss, England",Emirates Stadium (London),,Arsenal,Stoke City,3,0,Home Win,6.0,7.0,0.0,0.0,0.0,0.0,11.0,9.0,4.0,54%,0.0,0.0,3.0,0.0,0.0,0,3.0,4.0,0.0,0.0,0.0,0.0,11.0,1.0,3.0,46%,3.0,0.0,3.0,0.0,0.0,0,0,0
+192886,2015-01-11T16:00:00+00:00,"Phil Dowd, England",Old Trafford,Manchester,Manchester United,Southampton,0,1,Away Win,0.0,8.0,0.0,0.0,0.0,0.0,10.0,3.0,1.0,60%,2.0,0.0,0.0,0.0,0.0,0,2.0,5.0,0.0,0.0,0.0,0.0,11.0,5.0,1.0,40%,3.0,0.0,0.0,0.0,0.0,0,0,0
+192888,2015-01-17T15:00:00+00:00,"Phil Dowd, England",Turf Moor (Burnley),,Burnley,Crystal Palace,2,3,Away Win,2.0,1.0,0.0,0.0,0.0,0.0,11.0,5.0,0.0,49%,1.0,0.0,1.0,0.0,0.0,0,5.0,3.0,0.0,0.0,0.0,0.0,20.0,7.0,1.0,51%,3.0,0.0,0.0,0.0,0.0,0,0,0
+192889,2015-01-17T15:00:00+00:00,"Andre Marriner, England","King Power Stadium (Leicester, Leicestershire)",,Leicester,Stoke City,0,1,Away Win,5.0,2.0,0.0,0.0,0.0,0.0,8.0,6.0,0.0,46%,1.0,0.0,2.0,0.0,0.0,0,3.0,5.0,0.0,0.0,0.0,0.0,6.0,5.0,3.0,54%,0.0,0.0,5.0,0.0,0.0,0,0,0
+192892,2015-01-17T15:00:00+00:00,"Chris Foy, England",White Hart Lane (London),,Tottenham,Sunderland,2,1,Home Win,11.0,6.0,0.0,0.0,0.0,0.0,14.0,6.0,2.0,65%,1.0,0.0,3.0,0.0,0.0,0,4.0,3.0,0.0,0.0,0.0,0.0,8.0,6.0,4.0,35%,2.0,0.0,8.0,0.0,0.0,0,0,0
+192887,2015-01-17T15:00:00+00:00,"Mark Clattenburg, England",Villa Park (Birmingham),,Aston Villa,Liverpool,0,2,Away Win,3.0,6.0,0.0,0.0,0.0,0.0,13.0,9.0,1.0,46%,1.0,0.0,6.0,0.0,0.0,0,9.0,4.0,0.0,0.0,0.0,0.0,10.0,5.0,5.0,54%,1.0,0.0,3.0,0.0,0.0,0,0,0
+192890,2015-01-17T15:00:00+00:00,"Neil Swarbrick, England",Loftus Road Stadium (London),,QPR,Manchester United,0,2,Away Win,4.0,8.0,0.0,0.0,0.0,0.0,12.0,3.0,1.0,45%,3.0,0.0,5.0,0.0,0.0,0,7.0,1.0,0.0,0.0,0.0,0.0,10.0,3.0,2.0,55%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192891,2015-01-17T15:00:00+00:00,"Jonathan Moss, England",Liberty Stadium (Swansea),,Swansea,Chelsea,0,5,Away Win,1.0,6.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,48%,0.0,0.0,9.0,0.0,0.0,0,14.0,6.0,0.0,0.0,0.0,0.0,11.0,2.0,3.0,52%,0.0,0.0,1.0,0.0,0.0,0,0,0
+192893,2015-01-17T17:30:00+00:00,"Robert Madley, England",St. James' Park (Newcastle-upon-Tyne),,Newcastle,Southampton,1,2,Away Win,3.0,7.0,0.0,0.0,0.0,0.0,9.0,9.0,1.0,62%,0.0,0.0,1.0,0.0,0.0,0,4.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,3.0,38%,2.0,0.0,2.0,0.0,0.0,0,0,0
+192894,2015-01-18T13:30:00+00:00,"Martin Atkinson, England",Boleyn Ground (London),,West Ham,Hull City,3,0,Home Win,5.0,7.0,0.0,0.0,0.0,0.0,5.0,4.0,1.0,53%,1.0,0.0,3.0,0.0,0.0,0,3.0,3.0,0.0,0.0,0.0,0.0,14.0,7.0,2.0,47%,3.0,0.0,2.0,0.0,0.0,0,0,0
+192895,2015-01-18T16:00:00+00:00,"Mike Dean, England",Etihad Stadium (Manchester),,Manchester City,Arsenal,0,2,Away Win,5.0,2.0,0.0,0.0,0.0,0.0,10.0,16.0,2.0,67%,3.0,0.0,1.0,0.0,0.0,0,3.0,5.0,0.0,0.0,0.0,0.0,5.0,3.0,0.0,33%,3.0,0.0,5.0,0.0,0.0,0,0,0
+192896,2015-01-19T20:00:00+00:00,"Michael Oliver, England",Goodison Park (Liverpool),,Everton,West Brom,0,0,Draw,5.0,2.0,0.0,0.0,0.0,0.0,11.0,8.0,4.0,68%,3.0,0.0,0.0,0.0,0.0,0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,1.0,2.0,32%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192897,2015-01-31T12:45:00+00:00,"Phil Dowd, England",KCOM Stadium,Hull,Hull City,Newcastle,0,3,Away Win,9.0,3.0,0.0,0.0,0.0,0.0,15.0,3.0,3.0,60%,4.0,0.0,2.0,0.0,0.0,0,5.0,4.0,0.0,0.0,0.0,0.0,13.0,3.0,0.0,40%,1.0,0.0,9.0,0.0,0.0,0,0,0
+192900,2015-01-31T15:00:00+00:00,"Martin Atkinson, England",Old Trafford,Manchester,Manchester United,Leicester,3,1,Home Win,2.0,4.0,0.0,0.0,0.0,0.0,11.0,4.0,1.0,71%,0.0,0.0,0.0,0.0,0.0,0,1.0,3.0,0.0,0.0,0.0,0.0,12.0,3.0,1.0,29%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192899,2015-01-31T15:00:00+00:00,"Andre Marriner, England",Anfield,Liverpool,Liverpool,West Ham,2,0,Home Win,7.0,5.0,0.0,0.0,0.0,0.0,12.0,5.0,1.0,66%,1.0,0.0,2.0,0.0,0.0,0,2.0,2.0,0.0,0.0,0.0,0.0,12.0,7.0,1.0,34%,1.0,0.0,5.0,0.0,0.0,0,0,0
+192898,2015-01-31T15:00:00+00:00,"Roger East, England",Selhurst Park,London,Crystal Palace,Everton,0,1,Away Win,2.0,6.0,0.0,0.0,0.0,0.0,11.0,6.0,0.0,54%,0.0,0.0,0.0,0.0,0.0,0,1.0,6.0,0.0,0.0,0.0,0.0,12.0,1.0,0.0,46%,3.0,0.0,2.0,0.0,0.0,0,0,0
+192903,2015-01-31T15:00:00+00:00,"Kevin Friend, England",The Hawthorns,West Bromwich,West Brom,Tottenham,0,3,Away Win,5.0,4.0,0.0,0.0,0.0,0.0,7.0,6.0,2.0,38%,2.0,0.0,1.0,0.0,0.0,0,4.0,6.0,0.0,0.0,0.0,0.0,13.0,3.0,1.0,62%,1.0,0.0,5.0,0.0,0.0,0,0,0
+192901,2015-01-31T15:00:00+00:00,"Mike Dean, England",bet365 Stadium,Stoke,Stoke City,QPR,3,1,Home Win,4.0,7.0,0.0,0.0,0.0,0.0,13.0,3.0,3.0,53%,2.0,0.0,1.0,0.0,0.0,0,3.0,8.0,0.0,0.0,0.0,0.0,16.0,5.0,1.0,47%,2.0,0.0,1.0,0.0,0.0,0,0,0
+192902,2015-01-31T15:00:00+00:00,"Lee Mason, England",Stadium of Light,Sunderland,Sunderland,Burnley,2,0,Home Win,3.0,2.0,0.0,0.0,0.0,0.0,12.0,6.0,3.0,51%,3.0,0.0,4.0,0.0,0.0,0,4.0,6.0,0.0,0.0,0.0,0.0,12.0,3.0,3.0,49%,1.0,0.0,1.0,0.0,0.0,0,0,0
+192904,2015-01-31T17:30:00+00:00,"Mark Clattenburg, England",Stamford Bridge,London,Chelsea,Manchester City,1,1,Draw,2.0,1.0,3.0,0.0,2.0,1.0,12.0,1.0,2.0,42%,0.0,0.0,4.0,416.0,296.0,71%,5.0,4.0,9.0,0.0,8.0,1.0,14.0,8.0,3.0,58%,2.0,0.0,1.0,544.0,436.0,80%,0,0
+192905,2015-02-01T13:30:00+00:00,"Anthony Taylor, England",Emirates Stadium,London,Arsenal,Aston Villa,5,0,Home Win,8.0,3.0,13.0,2.0,8.0,5.0,6.0,7.0,3.0,48%,0.0,0.0,2.0,508.0,420.0,83%,2.0,5.0,9.0,2.0,4.0,5.0,10.0,7.0,0.0,52%,2.0,0.0,3.0,549.0,464.0,85%,0,0
+192906,2015-02-01T16:00:00+00:00,"Michael Oliver, England",St. Mary's Stadium,Southampton,Southampton,Swansea,0,1,Away Win,4.0,4.0,0.0,0.0,0.0,0.0,11.0,9.0,0.0,72%,1.0,1.0,0.0,0.0,0.0,0,2.0,2.0,0.0,0.0,0.0,0.0,9.0,0.0,3.0,28%,1.0,0.0,7.0,0.0,0.0,0,0,0
+192907,2015-02-07T12:45:00+00:00,"Martin Atkinson, England",White Hart Lane,London,Tottenham,Arsenal,2,1,Home Win,9.0,8.0,0.0,0.0,0.0,0.0,9.0,10.0,6.0,58%,3.0,0.0,4.0,0.0,0.0,0,5.0,0.0,0.0,0.0,0.0,0.0,12.0,3.0,2.0,42%,5.0,0.0,7.0,0.0,0.0,0,0,0
+192909,2015-02-07T15:00:00+00:00,"Lee Mason, England",King Power Stadium,Leicester,Leicester,Crystal Palace,0,1,Away Win,7.0,5.0,0.0,0.0,0.0,0.0,15.0,8.0,0.0,63%,4.0,0.0,1.0,0.0,0.0,0,2.0,8.0,0.0,0.0,0.0,0.0,7.0,6.0,4.0,37%,1.0,0.0,6.0,0.0,0.0,0,0,0
+192910,2015-02-07T15:00:00+00:00,"Jonathan Moss, England",Etihad Stadium,Manchester,Manchester City,Hull City,1,1,Draw,6.0,3.0,0.0,0.0,0.0,0.0,9.0,13.0,3.0,71%,2.0,0.0,1.0,0.0,0.0,0,4.0,2.0,0.0,0.0,0.0,0.0,8.0,1.0,0.0,29%,4.0,0.0,4.0,0.0,0.0,0,0,0
+192908,2015-02-07T15:00:00+00:00,"Neil Swarbrick, England",Villa Park,Birmingham,Aston Villa,Chelsea,1,2,Away Win,1.0,4.0,0.0,0.0,0.0,0.0,8.0,7.0,1.0,50%,3.0,0.0,3.0,0.0,0.0,0,4.0,3.0,0.0,0.0,0.0,0.0,7.0,7.0,4.0,50%,2.0,0.0,0.0,0.0,0.0,0,0,0
+192911,2015-02-07T15:00:00+00:00,"Roger East, England",Loftus Road,London,QPR,Southampton,0,1,Away Win,3.0,6.0,0.0,0.0,0.0,0.0,14.0,3.0,0.0,47%,2.0,0.0,4.0,0.0,0.0,0,5.0,7.0,0.0,0.0,0.0,0.0,16.0,4.0,3.0,53%,2.0,0.0,3.0,0.0,0.0,0,0,0
+192912,2015-02-07T15:00:00+00:00,"Phil Dowd, England",Liberty Stadium,Swansea,Swansea,Sunderland,1,1,Draw,7.0,6.0,0.0,0.0,0.0,0.0,11.0,7.0,1.0,60%,3.0,0.0,0.0,0.0,0.0,0,1.0,2.0,0.0,0.0,0.0,0.0,13.0,1.0,2.0,40%,4.0,0.0,7.0,0.0,0.0,0,0,0
+192913,2015-02-07T17:30:00+00:00,"Anthony Taylor, England",Goodison Park,Liverpool,Everton,Liverpool,0,0,Draw,2.0,3.0,0.0,0.0,0.0,0.0,11.0,3.0,5.0,44%,4.0,0.0,6.0,0.0,0.0,0,7.0,4.0,0.0,0.0,0.0,0.0,7.0,6.0,2.0,56%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192914,2015-02-08T12:00:00+00:00,"Mike Dean, England",Turf Moor,Burnley,Burnley,West Brom,2,2,Draw,5.0,3.0,0.0,0.0,0.0,0.0,10.0,5.0,3.0,55%,0.0,0.0,4.0,0.0,0.0,0,6.0,2.0,0.0,0.0,0.0,0.0,15.0,6.0,2.0,45%,4.0,0.0,4.0,0.0,0.0,0,0,0
+192915,2015-02-08T14:05:00+00:00,"Chris Foy, England",St James' Park,Newcastle upon Tyne,Newcastle,Stoke City,1,1,Draw,3.0,3.0,0.0,0.0,0.0,0.0,14.0,5.0,2.0,42%,2.0,0.0,4.0,0.0,0.0,0,4.0,1.0,0.0,0.0,0.0,0.0,17.0,8.0,1.0,58%,4.0,0.0,4.0,0.0,0.0,0,0,0
+192916,2015-02-08T16:15:00+00:00,"Mark Clattenburg, England",London Stadium,London,West Ham,Manchester United,1,1,Draw,5.0,4.0,0.0,0.0,0.0,0.0,7.0,9.0,3.0,45%,2.0,0.0,6.0,0.0,0.0,0,5.0,6.0,0.0,0.0,0.0,0.0,14.0,9.0,2.0,55%,3.0,1.0,5.0,0.0,0.0,0,0,0
+192917,2015-02-10T19:45:00+00:00,"Mike Jones, England",Emirates Stadium,London,Arsenal,Leicester,2,1,Home Win,5.0,3.0,0.0,0.0,0.0,0.0,11.0,6.0,1.0,58%,2.0,0.0,3.0,0.0,0.0,0,4.0,5.0,0.0,0.0,0.0,0.0,17.0,6.0,0.0,42%,2.0,0.0,5.0,0.0,0.0,0,0,0
+192918,2015-02-10T19:45:00+00:00,"Michael Oliver, England",KCOM Stadium,Hull,Hull City,Aston Villa,2,0,Home Win,4.0,4.0,0.0,0.0,0.0,0.0,16.0,3.0,1.0,34%,1.0,0.0,4.0,0.0,0.0,0,4.0,5.0,0.0,0.0,0.0,0.0,11.0,7.0,1.0,66%,2.0,0.0,2.0,0.0,0.0,0,0,0
+192919,2015-02-10T19:45:00+00:00,"Martin Atkinson, England",Stadium of Light,Sunderland,Sunderland,QPR,0,2,Away Win,5.0,3.0,0.0,0.0,0.0,0.0,8.0,8.0,2.0,52%,2.0,0.0,2.0,0.0,0.0,0,4.0,6.0,0.0,0.0,0.0,0.0,12.0,4.0,2.0,48%,3.0,0.0,5.0,0.0,0.0,0,0,0
+192920,2015-02-10T20:00:00+00:00,"Phil Dowd, England",Anfield,Liverpool,Liverpool,Tottenham,3,2,Home Win,8.0,4.0,0.0,0.0,0.0,0.0,12.0,5.0,2.0,45%,3.0,0.0,3.0,0.0,0.0,0,5.0,4.0,0.0,0.0,0.0,0.0,17.0,7.0,1.0,55%,6.0,0.0,4.0,0.0,0.0,0,0,0
+192921,2015-02-11T19:45:00+00:00,"Kevin Friend, England",Old Trafford,Manchester,Manchester United,Burnley,3,1,Home Win,6.0,3.0,0.0,0.0,0.0,0.0,16.0,5.0,1.0,57%,4.0,0.0,3.0,0.0,0.0,0,4.0,6.0,0.0,0.0,0.0,0.0,7.0,8.0,0.0,43%,3.0,0.0,3.0,0.0,0.0,0,0,0
+192922,2015-02-11T19:45:00+00:00,"Craig Pawson, England",St. Mary's Stadium,Southampton,Southampton,West Ham,0,0,Draw,4.0,6.0,0.0,0.0,0.0,0.0,12.0,8.0,3.0,65%,2.0,0.0,1.0,0.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,0.0,35%,1.0,1.0,4.0,0.0,0.0,0,0,0
+192923,2015-02-11T19:45:00+00:00,"Jonathan Moss, England",Stamford Bridge,London,Chelsea,Everton,1,0,Home Win,9.0,8.0,0.0,0.0,0.0,0.0,8.0,10.0,2.0,65%,3.0,0.0,4.0,0.0,0.0,0,4.0,3.0,0.0,0.0,0.0,0.0,12.0,2.0,1.0,35%,4.0,1.0,8.0,0.0,0.0,0,0,0
+192924,2015-02-11T19:45:00+00:00,"Lee Mason, England",bet365 Stadium,Stoke,Stoke City,Manchester City,1,4,Away Win,3.0,6.0,0.0,0.0,0.0,0.0,6.0,3.0,3.0,50%,1.0,0.0,4.0,0.0,0.0,0,8.0,3.0,0.0,0.0,0.0,0.0,11.0,2.0,4.0,50%,2.0,0.0,2.0,0.0,0.0,0,0,0
+192925,2015-02-11T20:00:00+00:00,"Andre Marriner, England",Selhurst Park,London,Crystal Palace,Newcastle,1,1,Draw,3.0,4.0,0.0,0.0,0.0,0.0,10.0,5.0,6.0,60%,1.0,0.0,0.0,0.0,0.0,0,1.0,2.0,0.0,0.0,0.0,0.0,11.0,2.0,0.0,40%,2.0,0.0,2.0,0.0,0.0,0,0,0
+192926,2015-02-11T20:00:00+00:00,"Robert Madley, England",The Hawthorns,West Bromwich,West Brom,Swansea,2,0,Home Win,4.0,4.0,0.0,0.0,0.0,0.0,9.0,5.0,0.0,37%,2.0,0.0,3.0,0.0,0.0,0,3.0,5.0,0.0,0.0,0.0,0.0,12.0,4.0,1.0,63%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192928,2015-02-21T15:00:00+00:00,"Martin Atkinson, England",Stamford Bridge,London,Chelsea,Burnley,1,1,Draw,5.0,5.0,0.0,0.0,0.0,0.0,9.0,7.0,3.0,61%,1.0,1.0,4.0,0.0,0.0,0,5.0,3.0,0.0,0.0,0.0,0.0,9.0,7.0,2.0,39%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192929,2015-02-21T15:00:00+00:00,"Mark Clattenburg, England",Selhurst Park,London,Crystal Palace,Arsenal,1,2,Away Win,5.0,7.0,0.0,0.0,0.0,0.0,13.0,10.0,2.0,53%,1.0,0.0,3.0,0.0,0.0,0,3.0,2.0,0.0,0.0,0.0,0.0,14.0,1.0,3.0,47%,3.0,0.0,4.0,0.0,0.0,0,0,0
+192930,2015-02-21T15:00:00+00:00,"Anthony Taylor, England",KCOM Stadium,Hull,Hull City,QPR,2,1,Home Win,6.0,7.0,0.0,0.0,0.0,0.0,17.0,5.0,8.0,55%,0.0,0.0,2.0,0.0,0.0,0,3.0,3.0,0.0,0.0,0.0,0.0,17.0,7.0,2.0,45%,4.0,1.0,5.0,0.0,0.0,0,0,0
+192927,2015-02-21T15:00:00+00:00,"Roger East, England",Villa Park,Birmingham,Aston Villa,Stoke City,1,2,Away Win,1.0,0.0,0.0,0.0,0.0,0.0,10.0,11.0,1.0,52%,2.0,1.0,3.0,0.0,0.0,0,5.0,2.0,0.0,0.0,0.0,0.0,17.0,3.0,3.0,48%,3.0,0.0,0.0,0.0,0.0,0,0,0
+192932,2015-02-21T15:00:00+00:00,"Neil Swarbrick, England",Liberty Stadium,Swansea,Swansea,Manchester United,2,1,Home Win,4.0,2.0,0.0,0.0,0.0,0.0,7.0,4.0,3.0,40%,2.0,0.0,2.0,0.0,0.0,0,3.0,7.0,0.0,0.0,0.0,0.0,14.0,10.0,1.0,60%,4.0,0.0,2.0,0.0,0.0,0,0,0
+192931,2015-02-21T15:00:00+00:00,"Mike Jones, England",Stadium of Light,Sunderland,Sunderland,West Brom,0,0,Draw,3.0,8.0,0.0,0.0,0.0,0.0,13.0,11.0,3.0,63%,1.0,0.0,1.0,0.0,0.0,0,1.0,4.0,0.0,0.0,0.0,0.0,10.0,2.0,2.0,37%,2.0,0.0,3.0,0.0,0.0,0,0,0
+192933,2015-02-21T17:30:00+00:00,"Chris Foy, England",Etihad Stadium,Manchester,Manchester City,Newcastle,5,0,Home Win,9.0,6.0,0.0,0.0,0.0,0.0,9.0,7.0,1.0,59%,3.0,0.0,1.0,0.0,0.0,0,1.0,4.0,0.0,0.0,0.0,0.0,7.0,3.0,2.0,41%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192934,2015-02-22T12:00:00+00:00,"Jonathan Moss, England",White Hart Lane,London,Tottenham,West Ham,2,2,Draw,7.0,9.0,0.0,0.0,0.0,0.0,6.0,7.0,2.0,61%,0.0,0.0,3.0,0.0,0.0,0,5.0,2.0,0.0,0.0,0.0,0.0,11.0,9.0,4.0,39%,2.0,0.0,4.0,0.0,0.0,0,0,0
+192935,2015-02-22T14:05:00+00:00,"Phil Dowd, England",Goodison Park,Liverpool,Everton,Leicester,2,2,Draw,3.0,9.0,0.0,0.0,0.0,0.0,7.0,4.0,1.0,55%,0.0,0.0,2.0,0.0,0.0,0,4.0,6.0,0.0,0.0,0.0,0.0,6.0,7.0,1.0,45%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192936,2015-02-22T16:15:00+00:00,"Kevin Friend, England",St. Mary's Stadium,Southampton,Southampton,Liverpool,0,2,Away Win,6.0,2.0,0.0,0.0,0.0,0.0,11.0,6.0,1.0,61%,2.0,0.0,2.0,0.0,0.0,0,4.0,0.0,0.0,0.0,0.0,0.0,15.0,1.0,2.0,39%,3.0,0.0,6.0,0.0,0.0,0,0,0
+192937,2015-02-28T12:45:00+00:00,"Mike Dean, England",London Stadium,London,West Ham,Crystal Palace,1,3,Away Win,7.0,6.0,0.0,0.0,0.0,0.0,12.0,11.0,0.0,59%,2.0,0.0,2.0,0.0,0.0,0,5.0,4.0,0.0,0.0,0.0,0.0,21.0,7.0,5.0,41%,3.0,1.0,4.0,0.0,0.0,0,0,0
+192939,2015-02-28T15:00:00+00:00,"Roger East, England",Old Trafford,Manchester,Manchester United,Sunderland,2,0,Home Win,9.0,10.0,0.0,0.0,0.0,0.0,6.0,13.0,1.0,71%,1.0,0.0,3.0,0.0,0.0,0,3.0,1.0,0.0,0.0,0.0,0.0,9.0,1.0,2.0,29%,1.0,1.0,6.0,0.0,0.0,0,0,0
+192940,2015-02-28T15:00:00+00:00,"Lee Mason, England",St James' Park,Newcastle upon Tyne,Newcastle,Aston Villa,1,0,Home Win,6.0,3.0,0.0,0.0,0.0,0.0,6.0,9.0,0.0,50%,1.0,0.0,3.0,0.0,0.0,0,3.0,7.0,0.0,0.0,0.0,0.0,16.0,5.0,3.0,50%,5.0,0.0,5.0,0.0,0.0,0,0,0
+192938,2015-02-28T15:00:00+00:00,"Jonathan Moss, England",Turf Moor,Burnley,Burnley,Swansea,0,1,Away Win,4.0,2.0,0.0,0.0,0.0,0.0,14.0,6.0,2.0,53%,0.0,0.0,1.0,0.0,0.0,0,1.0,6.0,0.0,0.0,0.0,0.0,9.0,4.0,0.0,47%,0.0,0.0,4.0,0.0,0.0,0,0,0
+192942,2015-02-28T15:00:00+00:00,"Phil Dowd, England",The Hawthorns,West Bromwich,West Brom,Southampton,1,0,Home Win,2.0,2.0,0.0,0.0,0.0,0.0,9.0,2.0,2.0,36%,2.0,0.0,2.0,0.0,0.0,0,2.0,9.0,0.0,0.0,0.0,0.0,18.0,3.0,1.0,64%,1.0,0.0,1.0,0.0,0.0,0,0,0
+192941,2015-02-28T15:00:00+00:00,"Neil Swarbrick, England",bet365 Stadium,Stoke,Stoke City,Hull City,1,0,Home Win,2.0,6.0,0.0,0.0,0.0,0.0,9.0,5.0,0.0,64%,2.0,0.0,0.0,0.0,0.0,0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,2.0,0.0,36%,2.0,0.0,1.0,0.0,0.0,0,0,0
+192943,2015-03-01T12:00:00+00:00,"Mark Clattenburg, England",Anfield,Liverpool,Liverpool,Manchester City,2,1,Home Win,5.0,5.0,0.0,0.0,0.0,0.0,8.0,3.0,3.0,48%,1.0,0.0,0.0,0.0,0.0,0,2.0,8.0,0.0,0.0,0.0,0.0,15.0,0.0,6.0,52%,3.0,0.0,3.0,0.0,0.0,0,0,0
+192944,2015-03-01T14:05:00+00:00,"Andre Marriner, England",Emirates Stadium,London,Arsenal,Everton,2,0,Home Win,5.0,8.0,0.0,0.0,0.0,0.0,12.0,8.0,3.0,47%,2.0,0.0,2.0,0.0,0.0,0,2.0,3.0,0.0,0.0,0.0,0.0,4.0,9.0,1.0,53%,0.0,0.0,3.0,0.0,0.0,0,0,0
+192949,2015-03-03T19:45:00+00:00,"Martin Atkinson, England",St. Mary's Stadium,Southampton,Southampton,Crystal Palace,1,0,Home Win,2.0,10.0,0.0,0.0,0.0,0.0,11.0,10.0,0.0,65%,0.0,0.0,3.0,0.0,0.0,0,4.0,2.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,35%,2.0,0.0,2.0,0.0,0.0,0,0,0
+192948,2015-03-03T19:45:00+00:00,"Mike Dean, England",KCOM Stadium,Hull,Hull City,Sunderland,1,1,Draw,5.0,6.0,0.0,0.0,0.0,0.0,10.0,6.0,1.0,40%,2.0,0.0,2.0,0.0,0.0,0,3.0,2.0,0.0,0.0,0.0,0.0,15.0,4.0,1.0,60%,6.0,0.0,4.0,0.0,0.0,0,0,0
+192947,2015-03-03T19:45:00+00:00,"Jonathan Moss, England",Villa Park,Birmingham,Aston Villa,West Brom,2,1,Home Win,8.0,5.0,0.0,0.0,0.0,0.0,16.0,0.0,2.0,53%,2.0,0.0,0.0,0.0,0.0,0,1.0,1.0,0.0,0.0,0.0,0.0,11.0,3.0,2.0,47%,4.0,0.0,5.0,0.0,0.0,0,0,0
+192953,2015-03-04T19:45:00+00:00,"Anthony Taylor, England",St James' Park,Newcastle upon Tyne,Newcastle,Manchester United,0,1,Away Win,3.0,3.0,0.0,0.0,0.0,0.0,7.0,4.0,1.0,35%,1.0,0.0,4.0,0.0,0.0,0,5.0,4.0,0.0,0.0,0.0,0.0,13.0,1.0,7.0,65%,2.0,0.0,3.0,0.0,0.0,0,0,0
+192955,2015-03-04T19:45:00+00:00,"Michael Oliver, England",White Hart Lane,London,Tottenham,Swansea,3,2,Home Win,6.0,3.0,0.0,0.0,0.0,0.0,14.0,6.0,2.0,59%,1.0,0.0,2.0,0.0,0.0,0,5.0,1.0,0.0,0.0,0.0,0.0,9.0,4.0,5.0,41%,0.0,0.0,3.0,0.0,0.0,0,0,0
+192951,2015-03-04T19:45:00+00:00,"Andre Marriner, England",London Stadium,London,West Ham,Chelsea,0,1,Away Win,3.0,5.0,0.0,0.0,0.0,0.0,10.0,5.0,4.0,43%,3.0,0.0,1.0,0.0,0.0,0,3.0,2.0,0.0,0.0,0.0,0.0,10.0,4.0,1.0,57%,4.0,0.0,3.0,0.0,0.0,0,0,0
+192952,2015-03-04T19:45:00+00:00,"Robert Madley, England",Etihad Stadium,Manchester,Manchester City,Leicester,2,0,Home Win,9.0,6.0,0.0,0.0,0.0,0.0,12.0,10.0,4.0,70%,0.0,0.0,2.0,0.0,0.0,0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,30%,1.0,0.0,9.0,0.0,0.0,0,0,0
+192950,2015-03-04T19:45:00+00:00,"Kevin Friend, England",Loftus Road,London,QPR,Arsenal,1,2,Away Win,5.0,5.0,0.0,0.0,0.0,0.0,10.0,1.0,4.0,40%,2.0,0.0,6.0,0.0,0.0,0,8.0,3.0,0.0,0.0,0.0,0.0,12.0,6.0,2.0,60%,1.0,0.0,4.0,0.0,0.0,0,0,0
+192954,2015-03-04T19:45:00+00:00,"Mark Clattenburg, England",bet365 Stadium,Stoke,Stoke City,Everton,2,0,Home Win,3.0,2.0,0.0,0.0,0.0,0.0,11.0,5.0,0.0,44%,2.0,0.0,5.0,0.0,0.0,0,5.0,1.0,0.0,0.0,0.0,0.0,14.0,6.0,1.0,56%,2.0,0.0,1.0,0.0,0.0,0,0,0
+192956,2015-03-04T20:00:00+00:00,"Lee Mason, England",Anfield,Liverpool,Liverpool,Burnley,2,0,Home Win,8.0,6.0,0.0,0.0,0.0,0.0,8.0,6.0,0.0,65%,0.0,0.0,1.0,0.0,0.0,0,1.0,3.0,0.0,0.0,0.0,0.0,15.0,5.0,0.0,35%,1.0,0.0,6.0,0.0,0.0,0,0,0
+192945,2015-03-07T15:00:00+00:00,"Craig Pawson, England",Loftus Road,London,QPR,Tottenham,1,2,Away Win,5.0,3.0,0.0,0.0,0.0,0.0,14.0,3.0,3.0,35%,1.0,0.0,5.0,0.0,0.0,0,8.0,3.0,0.0,0.0,0.0,0.0,11.0,5.0,3.0,65%,2.0,0.0,3.0,0.0,0.0,0,0,0
+192957,2015-03-14T12:45:00+00:00,"Lee Mason, England",Selhurst Park,London,Crystal Palace,QPR,3,1,Home Win,4.0,5.0,0.0,0.0,0.0,0.0,17.0,6.0,6.0,51%,1.0,0.0,3.0,0.0,0.0,0,4.0,4.0,0.0,0.0,0.0,0.0,16.0,3.0,0.0,49%,3.0,0.0,1.0,0.0,0.0,0,0,0
+192958,2015-03-14T15:00:00+00:00,"Anthony Taylor, England",Emirates Stadium,London,Arsenal,West Ham,3,0,Home Win,9.0,5.0,0.0,0.0,0.0,0.0,10.0,7.0,3.0,58%,1.0,0.0,1.0,0.0,0.0,0,1.0,4.0,0.0,0.0,0.0,0.0,9.0,5.0,3.0,42%,1.0,0.0,6.0,0.0,0.0,0,0,0
+192959,2015-03-14T15:00:00+00:00,"Jonathan Moss, England",King Power Stadium,Leicester,Leicester,Hull City,0,0,Draw,5.0,7.0,0.0,0.0,0.0,0.0,8.0,7.0,0.0,61%,0.0,0.0,3.0,0.0,0.0,0,3.0,3.0,0.0,0.0,0.0,0.0,15.0,5.0,0.0,39%,5.0,1.0,5.0,0.0,0.0,0,0,0
+192961,2015-03-14T15:00:00+00:00,"Michael Oliver, England",The Hawthorns,West Bromwich,West Brom,Stoke City,1,0,Home Win,5.0,4.0,0.0,0.0,0.0,0.0,7.0,7.0,1.0,43%,1.0,0.0,3.0,0.0,0.0,0,2.0,3.0,0.0,0.0,0.0,0.0,17.0,5.0,3.0,57%,2.0,0.0,5.0,0.0,0.0,0,0,0
+192960,2015-03-14T15:00:00+00:00,"Neil Swarbrick, England",Stadium of Light,Sunderland,Sunderland,Aston Villa,0,4,Away Win,3.0,5.0,0.0,0.0,0.0,0.0,10.0,2.0,2.0,40%,1.0,0.0,4.0,0.0,0.0,0,8.0,6.0,0.0,0.0,0.0,0.0,9.0,5.0,0.0,60%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192962,2015-03-14T17:30:00+00:00,"Andre Marriner, England",Turf Moor,Burnley,Burnley,Manchester City,1,0,Home Win,3.0,5.0,0.0,0.0,0.0,0.0,5.0,2.0,4.0,34%,2.0,0.0,6.0,0.0,0.0,0,6.0,8.0,0.0,0.0,0.0,0.0,9.0,6.0,0.0,66%,1.0,0.0,2.0,0.0,0.0,0,0,0
+192963,2015-03-15T13:30:00+00:00,"Mike Dean, England",Stamford Bridge,London,Chelsea,Southampton,1,1,Draw,7.0,5.0,0.0,0.0,0.0,0.0,9.0,9.0,1.0,57%,3.0,0.0,5.0,0.0,0.0,0,6.0,3.0,0.0,0.0,0.0,0.0,11.0,2.0,4.0,43%,3.0,0.0,5.0,0.0,0.0,0,0,0
+192965,2015-03-15T16:00:00+00:00,"Mark Clattenburg, England",Old Trafford,Manchester,Manchester United,Tottenham,3,0,Home Win,3.0,5.0,0.0,0.0,0.0,0.0,12.0,4.0,5.0,55%,1.0,0.0,1.0,0.0,0.0,0,1.0,2.0,0.0,0.0,0.0,0.0,10.0,2.0,4.0,45%,1.0,0.0,0.0,0.0,0.0,0,0,0
+192964,2015-03-15T16:00:00+00:00,"Martin Atkinson, England",Goodison Park,Liverpool,Everton,Newcastle,3,0,Home Win,10.0,3.0,0.0,0.0,0.0,0.0,11.0,3.0,0.0,60%,1.0,0.0,3.0,0.0,0.0,0,3.0,2.0,0.0,0.0,0.0,0.0,10.0,4.0,0.0,40%,2.0,1.0,7.0,0.0,0.0,0,0,0
+192966,2015-03-16T20:00:00+00:00,"Roger East, England",Liberty Stadium,Swansea,Swansea,Liverpool,0,1,Away Win,3.0,3.0,10.0,4.0,2.0,8.0,13.0,4.0,1.0,46%,0.0,0.0,4.0,483.0,395.0,82%,5.0,8.0,16.0,3.0,6.0,10.0,16.0,5.0,0.0,54%,3.0,0.0,3.0,566.0,479.0,85%,0,0
+192967,2015-03-21T12:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,West Brom,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192969,2015-03-21T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Arsenal,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192970,2015-03-21T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Burnley,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192972,2015-03-21T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Leicester,4,3,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192968,2015-03-21T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Swansea,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192971,2015-03-21T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Crystal Palace,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192973,2015-03-21T17:30:00+00:00,,Boleyn Ground (London),,West Ham,Sunderland,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192974,2015-03-22T13:30:00+00:00,,Anfield (Liverpool),,Liverpool,Manchester United,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192975,2015-03-22T16:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Chelsea,2,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192976,2015-03-22T16:00:00+00:00,,Loftus Road Stadium (London),,QPR,Everton,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192977,2015-04-04T11:45:00+00:00,,Emirates Stadium (London),,Arsenal,Liverpool,4,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192980,2015-04-04T14:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Aston Villa,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192978,2015-04-04T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Southampton,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192979,2015-04-04T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,West Ham,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192982,2015-04-04T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,QPR,1,4,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192981,2015-04-04T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Hull City,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192983,2015-04-04T16:30:00+00:00,,Stamford Bridge (London),,Chelsea,Stoke City,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192984,2015-04-05T12:30:00+00:00,,Turf Moor (Burnley),,Burnley,Tottenham,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192985,2015-04-05T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Newcastle,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192986,2015-04-06T19:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Manchester City,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192997,2015-04-07T18:45:00+00:00,,Villa Park (Birmingham),,Aston Villa,QPR,3,3,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192987,2015-04-11T11:45:00+00:00,,Liberty Stadium (Swansea),,Swansea,Everton,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192988,2015-04-11T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Hull City,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192990,2015-04-11T14:00:00+00:00,,White Hart Lane (London),,Tottenham,Aston Villa,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192992,2015-04-11T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Stoke City,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192991,2015-04-11T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Leicester,2,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192989,2015-04-11T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Crystal Palace,1,4,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192993,2015-04-11T16:30:00+00:00,,Turf Moor (Burnley),,Burnley,Arsenal,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192994,2015-04-12T12:30:00+00:00,,Loftus Road Stadium (London),,QPR,Chelsea,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192995,2015-04-12T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Manchester City,4,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192996,2015-04-13T19:00:00+00:00,,Anfield (Liverpool),,Liverpool,Newcastle,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192999,2015-04-18T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Burnley,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193000,2015-04-18T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Swansea,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192998,2015-04-18T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,West Brom,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193001,2015-04-18T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Southampton,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193002,2015-04-18T16:30:00+00:00,,Stamford Bridge (London),,Chelsea,Manchester United,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193003,2015-04-19T12:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,West Ham,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193004,2015-04-19T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Tottenham,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193007,2015-04-25T11:45:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Tottenham,2,2,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193010,2015-04-25T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Swansea,2,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193008,2015-04-25T14:00:00+00:00,,Turf Moor (Burnley),,Burnley,Leicester,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193009,2015-04-25T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Hull City,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193013,2015-04-25T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Liverpool,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193011,2015-04-25T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,West Ham,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193012,2015-04-25T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Sunderland,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193014,2015-04-25T16:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Aston Villa,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193015,2015-04-26T12:30:00+00:00,,Goodison Park (Liverpool),,Everton,Manchester United,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193016,2015-04-26T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Chelsea,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193005,2015-04-28T18:45:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Liverpool,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+192946,2015-04-29T18:45:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Chelsea,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193017,2015-05-02T11:45:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Newcastle,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193019,2015-05-02T14:00:00+00:00,,Anfield (Liverpool),,Liverpool,QPR,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193022,2015-05-02T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Burnley,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193018,2015-05-02T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Everton,3,2,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193021,2015-05-02T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Stoke City,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193020,2015-05-02T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Southampton,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193023,2015-05-02T16:30:00+00:00,,Old Trafford (Manchester),,Manchester United,West Brom,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193024,2015-05-03T12:30:00+00:00,,Stamford Bridge (London),,Chelsea,Crystal Palace,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193025,2015-05-03T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Manchester City,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193026,2015-05-04T19:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Arsenal,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193027,2015-05-09T11:45:00+00:00,,Goodison Park (Liverpool),,Everton,Sunderland,0,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193031,2015-05-09T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,West Brom,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193030,2015-05-09T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,Southampton,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193029,2015-05-09T14:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Burnley,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193028,2015-05-09T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,West Ham,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193032,2015-05-09T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Tottenham,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193033,2015-05-09T16:30:00+00:00,,Selhurst Park (London),,Crystal Palace,Manchester United,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193034,2015-05-10T12:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,QPR,6,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193035,2015-05-10T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,Liverpool,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193036,2015-05-11T19:00:00+00:00,,Emirates Stadium (London),,Arsenal,Swansea,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193037,2015-05-16T11:45:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Aston Villa,6,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193038,2015-05-16T14:00:00+00:00,,Turf Moor (Burnley),,Burnley,Stoke City,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193041,2015-05-16T14:00:00+00:00,,White Hart Lane (London),,Tottenham,Hull City,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193042,2015-05-16T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Everton,1,2,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193039,2015-05-16T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Newcastle,2,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193040,2015-05-16T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Leicester,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193043,2015-05-16T16:30:00+00:00,,Anfield (Liverpool),,Liverpool,Crystal Palace,1,3,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193044,2015-05-17T12:30:00+00:00,,Liberty Stadium (Swansea),,Swansea,Manchester City,2,4,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193045,2015-05-17T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Arsenal,1,1,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193046,2015-05-18T19:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Chelsea,3,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193006,2015-05-20T18:45:00+00:00,,Emirates Stadium (London),,Arsenal,Sunderland,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193055,2015-05-24T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,West Ham,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193047,2015-05-24T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,West Brom,4,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193051,2015-05-24T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Tottenham,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193053,2015-05-24T14:00:00+00:00,,"King Power Stadium (Leicester, Leicestershire)",,Leicester,QPR,5,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193049,2015-05-24T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Sunderland,3,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193054,2015-05-24T14:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Southampton,2,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193050,2015-05-24T14:00:00+00:00,,Selhurst Park (London),,Crystal Palace,Swansea,1,0,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193052,2015-05-24T14:00:00+00:00,,Kingston Communications Stadium (Hull),,Hull City,Manchester United,0,0,Draw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193048,2015-05-24T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Burnley,0,1,Away Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+193056,2015-05-24T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Liverpool,6,1,Home Win,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0

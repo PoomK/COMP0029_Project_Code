@@ -1,0 +1,381 @@
+Fixture ID,Date,Referee,Venue,City,Home Team,Away Team,Home Team Goals,Away Team Goals,Result,Home Shots on Goal,Away Shots on Goal,Home Shots off Goal,Away Shots off Goal,Home Total Shots,Away Total Shots,Home Blocked Shots,Away Blocked Shots,Home Shots insidebox,Away Shots insidebox,Home Shots outsidebox,Away Shots outsidebox,Home Fouls,Away Fouls,Home Corner Kicks,Away Corner Kicks,Home Offsides,Away Offsides,Home Ball Possession,Away Ball Possession,Home Yellow Cards,Away Yellow Cards,Home Red Cards,Away Red Cards,Home Goalkeeper Saves,Away Goalkeeper Saves,Home Total passes,Away Total passes,Home Passes accurate,Away Passes accurate,Home Passes %,Away Passes %,Home expected_goals,Away expected_goals
+193438,2012-08-18T14:00:00+00:00,,Craven Cottage (London),,Fulham,Norwich,5,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193437,2012-08-18T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,Sunderland,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193442,2012-08-18T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Aston Villa,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193440,2012-08-18T14:00:00+00:00,,Madejski Stadium (Reading),,Reading,Stoke City,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193441,2012-08-18T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Liverpool,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193439,2012-08-18T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Swansea,0,5,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193443,2012-08-18T16:30:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Tottenham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193444,2012-08-19T12:30:00+00:00,,The DW Stadium (Wigan),,Wigan,Chelsea,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193445,2012-08-19T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Southampton,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193446,2012-08-20T19:00:00+00:00,,Goodison Park (Liverpool),,Everton,Manchester United,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193457,2012-08-22T18:45:00+00:00,,Stamford Bridge (London),,Chelsea,Reading,4,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193447,2012-08-25T11:45:00+00:00,,Liberty Stadium (Swansea),,Swansea,West Ham,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193449,2012-08-25T14:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Fulham,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193451,2012-08-25T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Wigan,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193452,2012-08-25T14:00:00+00:00,,White Hart Lane (London),,Tottenham,West Brom,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193448,2012-08-25T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Everton,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193450,2012-08-25T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,QPR,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193453,2012-08-25T16:30:00+00:00,,Stamford Bridge (London),,Chelsea,Newcastle,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193454,2012-08-26T12:30:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Arsenal,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193455,2012-08-26T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Manchester City,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193458,2012-09-01T11:45:00+00:00,,Boleyn Ground (London),,West Ham,Fulham,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193460,2012-09-01T14:00:00+00:00,,White Hart Lane (London),,Tottenham,Norwich,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193461,2012-09-01T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Everton,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193462,2012-09-01T14:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Stoke City,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193459,2012-09-01T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Sunderland,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193463,2012-09-01T16:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,QPR,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193464,2012-09-02T12:30:00+00:00,,Anfield (Liverpool),,Liverpool,Arsenal,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193465,2012-09-02T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Aston Villa,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193466,2012-09-02T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Manchester United,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193467,2012-09-15T11:45:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,West Ham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193471,2012-09-15T14:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Wigan,4,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193470,2012-09-15T14:00:00+00:00,,Craven Cottage (London),,Fulham,West Brom,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193468,2012-09-15T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,Southampton,6,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193469,2012-09-15T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Swansea,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193472,2012-09-15T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Chelsea,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193473,2012-09-15T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Manchester City,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193474,2012-09-15T16:30:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Liverpool,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193475,2012-09-16T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Tottenham,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193476,2012-09-17T19:00:00+00:00,,Goodison Park (Liverpool),,Everton,Newcastle,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193477,2012-09-22T11:45:00+00:00,,Liberty Stadium (Swansea),,Swansea,Everton,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193479,2012-09-22T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Aston Villa,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193481,2012-09-22T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Sunderland,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193478,2012-09-22T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Stoke City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193480,2012-09-22T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193482,2012-09-22T14:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Fulham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193483,2012-09-23T12:30:00+00:00,,Anfield (Liverpool),,Liverpool,Manchester United,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193484,2012-09-23T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Norwich,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193486,2012-09-23T15:00:00+00:00,,White Hart Lane (London),,Tottenham,QPR,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193485,2012-09-23T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Arsenal,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193487,2012-09-29T11:45:00+00:00,,Emirates Stadium (London),,Arsenal,Chelsea,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193489,2012-09-29T14:00:00+00:00,,Craven Cottage (London),,Fulham,Manchester City,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193488,2012-09-29T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Southampton,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193491,2012-09-29T14:00:00+00:00,,Madejski Stadium (Reading),,Reading,Newcastle,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193490,2012-09-29T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Liverpool,2,5,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193492,2012-09-29T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Swansea,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193493,2012-09-29T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Wigan,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193494,2012-09-29T16:30:00+00:00,,Old Trafford (Manchester),,Manchester United,Tottenham,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193495,2012-09-30T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,West Brom,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193496,2012-10-01T19:00:00+00:00,,Loftus Road Stadium (London),,QPR,West Ham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193497,2012-10-06T11:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Sunderland,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193498,2012-10-06T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Norwich,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193500,2012-10-06T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,QPR,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193501,2012-10-06T14:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Everton,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193499,2012-10-06T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Reading,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193502,2012-10-06T16:30:00+00:00,,Boleyn Ground (London),,West Ham,Arsenal,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193503,2012-10-07T12:30:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Fulham,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193504,2012-10-07T14:00:00+00:00,,Anfield (Liverpool),,Liverpool,Stoke City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193505,2012-10-07T14:00:00+00:00,,White Hart Lane (London),,Tottenham,Aston Villa,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193506,2012-10-07T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Manchester United,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193507,2012-10-20T11:45:00+00:00,,White Hart Lane (London),,Tottenham,Chelsea,2,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193510,2012-10-20T14:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Stoke City,4,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193508,2012-10-20T14:00:00+00:00,,Craven Cottage (London),,Fulham,Aston Villa,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193509,2012-10-20T14:00:00+00:00,,Anfield (Liverpool),,Liverpool,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193513,2012-10-20T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Southampton,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193512,2012-10-20T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Manchester City,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193511,2012-10-20T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Wigan,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193514,2012-10-20T16:30:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Arsenal,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193515,2012-10-21T12:30:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Newcastle,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193516,2012-10-21T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Everton,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193517,2012-10-27T11:45:00+00:00,,Villa Park (Birmingham),,Aston Villa,Norwich,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193518,2012-10-27T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,QPR,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193519,2012-10-27T14:00:00+00:00,,Madejski Stadium (Reading),,Reading,Fulham,3,3,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193521,2012-10-27T14:00:00+00:00,,The DW Stadium (Wigan),,Wigan,West Ham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193520,2012-10-27T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Sunderland,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193522,2012-10-27T16:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Swansea,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193523,2012-10-28T13:30:00+00:00,,Goodison Park (Liverpool),,Everton,Liverpool,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193524,2012-10-28T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,West Brom,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193525,2012-10-28T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Tottenham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193526,2012-10-28T16:00:00+00:00,,Stamford Bridge (London),,Chelsea,Manchester United,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193527,2012-11-03T12:45:00+00:00,,Old Trafford (Manchester),,Manchester United,Arsenal,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193528,2012-11-03T15:00:00+00:00,,Craven Cottage (London),,Fulham,Everton,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193532,2012-11-03T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Wigan,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193529,2012-11-03T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Stoke City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193531,2012-11-03T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Chelsea,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193530,2012-11-03T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Aston Villa,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193533,2012-11-03T17:30:00+00:00,,Boleyn Ground (London),,West Ham,Manchester City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193534,2012-11-04T13:30:00+00:00,,Loftus Road Stadium (London),,QPR,Reading,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193535,2012-11-04T16:00:00+00:00,,Anfield (Liverpool),,Liverpool,Newcastle,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193536,2012-11-05T20:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Southampton,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193540,2012-11-10T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Swansea,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193537,2012-11-10T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Fulham,3,3,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193538,2012-11-10T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Sunderland,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193539,2012-11-10T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Norwich,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193542,2012-11-10T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,West Brom,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193541,2012-11-10T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,QPR,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193543,2012-11-10T17:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Manchester United,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193544,2012-11-11T13:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Tottenham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193545,2012-11-11T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,West Ham,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193546,2012-11-11T16:00:00+00:00,,Stamford Bridge (London),,Chelsea,Liverpool,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193547,2012-11-17T12:45:00+00:00,,Emirates Stadium (London),,Arsenal,Tottenham,5,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193550,2012-11-17T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Swansea,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193548,2012-11-17T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Wigan,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193549,2012-11-17T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Aston Villa,5,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193552,2012-11-17T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Everton,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193553,2012-11-17T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Chelsea,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193551,2012-11-17T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Southampton,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193554,2012-11-17T17:30:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Manchester United,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193555,2012-11-18T16:00:00+00:00,,Craven Cottage (London),,Fulham,Sunderland,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193556,2012-11-19T20:00:00+00:00,,Boleyn Ground (London),,West Ham,Stoke City,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193557,2012-11-24T12:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,West Brom,2,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193559,2012-11-24T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,QPR,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193558,2012-11-24T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Norwich,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193561,2012-11-24T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Reading,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193560,2012-11-24T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Fulham,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193562,2012-11-24T17:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Arsenal,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193563,2012-11-25T13:30:00+00:00,,Liberty Stadium (Swansea),,Swansea,Liverpool,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193564,2012-11-25T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Newcastle,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193566,2012-11-25T16:00:00+00:00,,White Hart Lane (London),,Tottenham,West Ham,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193565,2012-11-25T16:00:00+00:00,,Stamford Bridge (London),,Chelsea,Manchester City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193567,2012-11-27T19:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,QPR,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193568,2012-11-27T20:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193569,2012-11-28T19:45:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Norwich,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193574,2012-11-28T19:45:00+00:00,,Goodison Park (Liverpool),,Everton,Arsenal,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193572,2012-11-28T19:45:00+00:00,,White Hart Lane (London),,Tottenham,Liverpool,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193573,2012-11-28T19:45:00+00:00,,Stamford Bridge (London),,Chelsea,Fulham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193570,2012-11-28T19:45:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Newcastle,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193571,2012-11-28T19:45:00+00:00,,Liberty Stadium (Swansea),,Swansea,West Brom,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193575,2012-11-28T20:00:00+00:00,,Old Trafford (Manchester),,Manchester United,West Ham,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193576,2012-11-28T20:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Manchester City,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193577,2012-12-01T12:45:00+00:00,,Boleyn Ground (London),,West Ham,Chelsea,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193579,2012-12-01T15:00:00+00:00,,Craven Cottage (London),,Fulham,Tottenham,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193580,2012-12-01T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Southampton,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193578,2012-12-01T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Swansea,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193581,2012-12-01T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Everton,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193583,2012-12-01T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Stoke City,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193582,2012-12-01T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Aston Villa,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193584,2012-12-01T17:30:00+00:00,,Madejski Stadium (Reading),,Reading,Manchester United,3,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193585,2012-12-02T16:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Sunderland,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193586,2012-12-03T20:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Wigan,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193589,2012-12-08T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193587,2012-12-08T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,West Brom,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193592,2012-12-08T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,QPR,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193588,2012-12-08T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Stoke City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193591,2012-12-08T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Norwich,3,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193590,2012-12-08T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Chelsea,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193593,2012-12-09T13:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Manchester United,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193594,2012-12-09T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Tottenham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193595,2012-12-09T16:00:00+00:00,,Boleyn Ground (London),,West Ham,Liverpool,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193596,2012-12-10T20:00:00+00:00,,Craven Cottage (London),,Fulham,Newcastle,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193456,2012-12-11T19:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Reading,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193597,2012-12-15T12:45:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Manchester City,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193599,2012-12-15T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Sunderland,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193598,2012-12-15T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Aston Villa,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193600,2012-12-15T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Wigan,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193601,2012-12-15T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Fulham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193602,2012-12-15T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Everton,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193603,2012-12-16T13:30:00+00:00,,White Hart Lane (London),,Tottenham,Swansea,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193604,2012-12-16T16:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,West Ham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193605,2012-12-17T20:00:00+00:00,,Madejski Stadium (Reading),,Reading,Arsenal,2,5,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193607,2012-12-22T12:45:00+00:00,,The DW Stadium (Wigan),,Wigan,Arsenal,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193609,2012-12-22T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,QPR,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193610,2012-12-22T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Sunderland,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193611,2012-12-22T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Stoke City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193613,2012-12-22T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Everton,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193608,2012-12-22T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193612,2012-12-22T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Norwich,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193614,2012-12-22T17:30:00+00:00,,Anfield (Liverpool),,Liverpool,Fulham,4,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193615,2012-12-23T13:30:00+00:00,,Liberty Stadium (Swansea),,Swansea,Manchester United,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193616,2012-12-23T16:00:00+00:00,,Stamford Bridge (London),,Chelsea,Aston Villa,8,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193619,2012-12-26T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Newcastle,4,3,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193618,2012-12-26T15:00:00+00:00,,Craven Cottage (London),,Fulham,Southampton,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193617,2012-12-26T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Wigan,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193621,2012-12-26T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Swansea,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193620,2012-12-26T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Chelsea,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193622,2012-12-26T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Manchester City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193623,2012-12-26T15:15:00+00:00,,Loftus Road Stadium (London),,QPR,West Brom,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193624,2012-12-26T17:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Tottenham,0,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193625,2012-12-26T19:45:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Liverpool,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193627,2012-12-29T12:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Tottenham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193630,2012-12-29T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,West Brom,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193629,2012-12-29T15:00:00+00:00,,Craven Cottage (London),,Fulham,Swansea,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193632,2012-12-29T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,West Ham,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193628,2012-12-29T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Wigan,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193631,2012-12-29T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Manchester City,3,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193633,2012-12-29T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Southampton,3,3,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193634,2012-12-29T17:30:00+00:00,,Emirates Stadium (London),,Arsenal,Newcastle,7,3,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193635,2012-12-30T13:30:00+00:00,,Goodison Park (Liverpool),,Everton,Chelsea,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193636,2012-12-30T16:00:00+00:00,,Loftus Road Stadium (London),,QPR,Liverpool,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193637,2013-01-01T12:45:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Fulham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193640,2013-01-01T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Reading,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193641,2013-01-01T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Norwich,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193638,2013-01-01T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Stoke City,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193642,2013-01-01T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Manchester United,0,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193639,2013-01-01T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Aston Villa,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193643,2013-01-01T17:30:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Arsenal,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193645,2013-01-02T19:45:00+00:00,,Anfield (Liverpool),,Liverpool,Sunderland,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193644,2013-01-02T19:45:00+00:00,,Stamford Bridge (London),,Chelsea,QPR,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193646,2013-01-02T20:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Everton,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193647,2013-01-12T12:45:00+00:00,,Loftus Road Stadium (London),,QPR,Tottenham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193650,2013-01-12T15:00:00+00:00,,Craven Cottage (London),,Fulham,Wigan,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193649,2013-01-12T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Swansea,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193652,2013-01-12T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,West Brom,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193648,2013-01-12T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Southampton,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193651,2013-01-12T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Newcastle,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193653,2013-01-12T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Chelsea,0,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193654,2013-01-12T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,West Ham,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193655,2013-01-13T13:30:00+00:00,,Old Trafford (Manchester),,Manchester United,Liverpool,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193656,2013-01-13T16:00:00+00:00,,Emirates Stadium (London),,Arsenal,Manchester City,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193606,2013-01-16T19:45:00+00:00,,Stamford Bridge (London),,Chelsea,Southampton,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193659,2013-01-19T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Reading,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193657,2013-01-19T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Norwich,5,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193661,2013-01-19T15:00:00+00:00,,Boleyn Ground (London),,West Ham,QPR,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193658,2013-01-19T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Fulham,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193662,2013-01-19T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Sunderland,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193660,2013-01-19T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Stoke City,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193663,2013-01-19T17:30:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Aston Villa,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193664,2013-01-20T13:30:00+00:00,,Stamford Bridge (London),,Chelsea,Arsenal,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193665,2013-01-20T16:00:00+00:00,,White Hart Lane (London),,Tottenham,Manchester United,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193666,2013-01-21T20:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Everton,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193626,2013-01-23T19:45:00+00:00,,Emirates Stadium (London),,Arsenal,West Ham,5,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193667,2013-01-29T19:45:00+00:00,,Villa Park (Birmingham),,Aston Villa,Newcastle,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193668,2013-01-29T19:45:00+00:00,,Loftus Road Stadium (London),,QPR,Manchester City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193669,2013-01-29T19:45:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Wigan,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193670,2013-01-29T19:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Swansea,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193671,2013-01-30T19:45:00+00:00,,Emirates Stadium (London),,Arsenal,Liverpool,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193673,2013-01-30T19:45:00+00:00,,Goodison Park (Liverpool),,Everton,West Brom,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193672,2013-01-30T19:45:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Tottenham,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193674,2013-01-30T20:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Southampton,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193676,2013-01-30T20:00:00+00:00,,Craven Cottage (London),,Fulham,West Ham,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193675,2013-01-30T20:00:00+00:00,,Madejski Stadium (Reading),,Reading,Chelsea,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193677,2013-02-02T12:45:00+00:00,,Loftus Road Stadium (London),,QPR,Norwich,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193680,2013-02-02T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Chelsea,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193678,2013-02-02T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Stoke City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193679,2013-02-02T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Aston Villa,3,3,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193682,2013-02-02T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Swansea,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193681,2013-02-02T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Sunderland,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193683,2013-02-02T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Southampton,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193684,2013-02-02T17:30:00+00:00,,Craven Cottage (London),,Fulham,Manchester United,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193685,2013-02-03T13:30:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Tottenham,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193686,2013-02-03T16:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Liverpool,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193687,2013-02-09T12:45:00+00:00,,White Hart Lane (London),,Tottenham,Newcastle,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193688,2013-02-09T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,Wigan,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193689,2013-02-09T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Fulham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193690,2013-02-09T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Reading,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193692,2013-02-09T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,QPR,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193691,2013-02-09T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Arsenal,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193693,2013-02-09T17:30:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Manchester City,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193694,2013-02-10T13:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,West Ham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193695,2013-02-10T16:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Everton,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193696,2013-02-11T20:00:00+00:00,,Anfield (Liverpool),,Liverpool,West Brom,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193697,2013-02-17T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Swansea,5,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193698,2013-02-23T12:45:00+00:00,,Craven Cottage (London),,Fulham,Stoke City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193699,2013-02-23T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Aston Villa,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193702,2013-02-23T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Wigan,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193703,2013-02-23T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Sunderland,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193700,2013-02-23T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Everton,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193701,2013-02-23T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Manchester United,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193705,2013-02-24T13:30:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Southampton,4,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193704,2013-02-24T13:30:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Chelsea,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193706,2013-02-25T20:00:00+00:00,,Boleyn Ground (London),,West Ham,Tottenham,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193709,2013-03-02T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Norwich,4,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193710,2013-03-02T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,QPR,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193708,2013-03-02T15:00:00+00:00,,Goodison Park (Liverpool),,Everton,Reading,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193707,2013-03-02T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,West Brom,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193711,2013-03-02T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,West Ham,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193713,2013-03-02T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Newcastle,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193712,2013-03-02T15:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Fulham,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193714,2013-03-02T17:30:00+00:00,,The DW Stadium (Wigan),,Wigan,Liverpool,0,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193715,2013-03-03T16:00:00+00:00,,White Hart Lane (London),,Tottenham,Arsenal,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193716,2013-03-04T20:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Manchester City,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193719,2013-03-09T15:00:00+00:00,,Madejski Stadium (Reading),,Reading,Aston Villa,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193720,2013-03-09T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Swansea,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193717,2013-03-09T15:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Southampton,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193718,2013-03-09T15:00:00+00:00,,Loftus Road Stadium (London),,QPR,Sunderland,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193721,2013-03-10T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Stoke City,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193722,2013-03-10T16:00:00+00:00,,Anfield (Liverpool),,Liverpool,Tottenham,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193727,2013-03-16T12:45:00+00:00,,Goodison Park (Liverpool),,Everton,Manchester City,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193729,2013-03-16T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Liverpool,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193728,2013-03-16T15:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,QPR,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193730,2013-03-16T15:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,West Brom,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193731,2013-03-16T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Arsenal,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193732,2013-03-16T17:30:00+00:00,,Old Trafford (Manchester),,Manchester United,Reading,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193733,2013-03-17T13:30:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Norwich,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193734,2013-03-17T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Fulham,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193735,2013-03-17T16:00:00+00:00,,Stamford Bridge (London),,Chelsea,West Ham,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193736,2013-03-17T16:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Newcastle,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193737,2013-03-30T12:45:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Manchester United,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193740,2013-03-30T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Chelsea,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193738,2013-03-30T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Reading,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193742,2013-03-30T15:00:00+00:00,,Boleyn Ground (London),,West Ham,West Brom,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193739,2013-03-30T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Newcastle,4,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193743,2013-03-30T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Norwich,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193741,2013-03-30T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Tottenham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193744,2013-03-30T17:30:00+00:00,,Goodison Park (Liverpool),,Everton,Stoke City,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193745,2013-03-31T12:30:00+00:00,,Villa Park (Birmingham),,Aston Villa,Liverpool,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193746,2013-04-01T19:00:00+00:00,,Craven Cottage (London),,Fulham,QPR,3,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193747,2013-04-06T11:45:00+00:00,,Madejski Stadium (Reading),,Reading,Southampton,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193750,2013-04-06T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Arsenal,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193748,2013-04-06T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Swansea,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193749,2013-04-06T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Aston Villa,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193751,2013-04-07T12:30:00+00:00,,Anfield (Liverpool),,Liverpool,West Ham,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193752,2013-04-07T13:05:00+00:00,,White Hart Lane (London),,Tottenham,Everton,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193754,2013-04-07T14:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Fulham,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193753,2013-04-07T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Sunderland,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193755,2013-04-07T15:10:00+00:00,,Loftus Road Stadium (London),,QPR,Wigan,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193756,2013-04-08T19:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Manchester City,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193761,2013-04-13T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,West Ham,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193757,2013-04-13T14:00:00+00:00,,Emirates Stadium (London),,Arsenal,Norwich,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193759,2013-04-13T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,QPR,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193760,2013-04-13T14:00:00+00:00,,Madejski Stadium (Reading),,Reading,Liverpool,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193758,2013-04-13T14:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Fulham,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193762,2013-04-14T11:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Sunderland,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193763,2013-04-14T13:05:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Manchester United,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193723,2013-04-16T18:45:00+00:00,,Emirates Stadium (London),,Arsenal,Everton,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193725,2013-04-17T18:45:00+00:00,,Boleyn Ground (London),,West Ham,Manchester United,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193724,2013-04-17T18:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Wigan,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193726,2013-04-17T19:00:00+00:00,,Craven Cottage (London),,Fulham,Chelsea,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193767,2013-04-20T14:00:00+00:00,,Craven Cottage (London),,Fulham,Arsenal,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193773,2013-04-20T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Wigan,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193772,2013-04-20T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Newcastle,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193768,2013-04-20T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Reading,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193769,2013-04-20T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Stoke City,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193771,2013-04-20T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Southampton,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193770,2013-04-20T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Everton,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193774,2013-04-21T12:30:00+00:00,,White Hart Lane (London),,Tottenham,Manchester City,3,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193775,2013-04-21T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,Chelsea,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193776,2013-04-22T19:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Aston Villa,3,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193777,2013-04-27T11:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,West Ham,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193779,2013-04-27T14:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,West Brom,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193778,2013-04-27T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,Fulham,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193781,2013-04-27T14:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Tottenham,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193780,2013-04-27T14:00:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Norwich,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193782,2013-04-27T16:30:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Liverpool,0,6,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193783,2013-04-28T12:30:00+00:00,,Madejski Stadium (Reading),,Reading,QPR,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193784,2013-04-28T14:00:00+00:00,,Stamford Bridge (London),,Chelsea,Swansea,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193785,2013-04-28T15:00:00+00:00,,Emirates Stadium (London),,Arsenal,Manchester United,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193786,2013-04-29T19:00:00+00:00,,Villa Park (Birmingham),,Aston Villa,Sunderland,6,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193787,2013-05-04T14:00:00+00:00,,Craven Cottage (London),,Fulham,Reading,2,4,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193791,2013-05-04T14:00:00+00:00,,Boleyn Ground (London),,West Ham,Newcastle,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193790,2013-05-04T14:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Wigan,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193788,2013-05-04T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,Aston Villa,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193789,2013-05-04T14:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Manchester City,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193792,2013-05-04T14:30:00+00:00,,White Hart Lane (London),,Tottenham,Southampton,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193793,2013-05-04T16:30:00+00:00,,Loftus Road Stadium (London),,QPR,Arsenal,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193794,2013-05-05T12:30:00+00:00,,Anfield (Liverpool),,Liverpool,Everton,0,0,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193795,2013-05-05T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Chelsea,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193796,2013-05-06T19:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Stoke City,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193764,2013-05-07T18:45:00+00:00,,Etihad Stadium (Manchester),,Manchester City,West Brom,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193765,2013-05-07T18:45:00+00:00,,The DW Stadium (Wigan),,Wigan,Swansea,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193766,2013-05-08T18:45:00+00:00,,Stamford Bridge (London),,Chelsea,Tottenham,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193797,2013-05-11T11:45:00+00:00,,Villa Park (Birmingham),,Aston Villa,Chelsea,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193798,2013-05-12T12:30:00+00:00,,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",,Stoke City,Tottenham,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193800,2013-05-12T14:00:00+00:00,,Craven Cottage (London),,Fulham,Liverpool,1,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193799,2013-05-12T14:00:00+00:00,,Goodison Park (Liverpool),,Everton,West Ham,2,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193801,2013-05-12T14:00:00+00:00,,"Carrow Road (Norwich, Norfolk)",,Norwich,West Brom,4,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193802,2013-05-12T14:00:00+00:00,,Loftus Road Stadium (London),,QPR,Newcastle,1,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193803,2013-05-12T14:00:00+00:00,,Stadium of Light (Sunderland),,Sunderland,Southampton,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193804,2013-05-12T15:00:00+00:00,,Old Trafford (Manchester),,Manchester United,Swansea,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193805,2013-05-14T18:45:00+00:00,,Emirates Stadium (London),,Arsenal,Wigan,4,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193806,2013-05-14T19:00:00+00:00,,Madejski Stadium (Reading),,Reading,Manchester City,0,2,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193810,2013-05-19T15:00:00+00:00,,St. James' Park (Newcastle-upon-Tyne),,Newcastle,Arsenal,0,1,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193808,2013-05-19T15:00:00+00:00,,Anfield (Liverpool),,Liverpool,QPR,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193811,2013-05-19T15:00:00+00:00,,"St. Mary's Stadium (Southampton, Hampshire)",,Southampton,Stoke City,1,1,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193813,2013-05-19T15:00:00+00:00,,White Hart Lane (London),,Tottenham,Sunderland,1,0,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193815,2013-05-19T15:00:00+00:00,,Boleyn Ground (London),,West Ham,Reading,4,2,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193807,2013-05-19T15:00:00+00:00,,Stamford Bridge (London),,Chelsea,Everton,2,1,Home Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193809,2013-05-19T15:00:00+00:00,,Etihad Stadium (Manchester),,Manchester City,Norwich,2,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193814,2013-05-19T15:00:00+00:00,,The Hawthorns (West Bromwich),,West Brom,Manchester United,5,5,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193816,2013-05-19T15:00:00+00:00,,The DW Stadium (Wigan),,Wigan,Aston Villa,2,2,Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193812,2013-05-19T15:00:00+00:00,,Liberty Stadium (Swansea),,Swansea,Fulham,0,3,Away Win,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
